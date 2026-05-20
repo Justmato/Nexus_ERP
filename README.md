@@ -166,4 +166,4 @@ Ver `.github/workflows/ci.yml`
 
 ## Licencia
 
-MIT © 2026 Modern ERP
+2026 Modern ERP
